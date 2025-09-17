@@ -18,7 +18,6 @@ body {
   margin: 0;
   min-height: 100vh;
   background: linear-gradient(135deg, #181818 0%, #232526 100%);
-  /* تدرج بين الرمادي الداكن والأسود لتناسب الذهبي */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 </style>
